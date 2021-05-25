@@ -62,15 +62,15 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Repo
-Kevin Jeremia S.P (https://github.com/LilKeJer/PEMROGRAMAN-WEB-DAN-MOBILE-I).
+Kevin Jeremia S.P, 193020503034 (https://github.com/LilKeJer/PEMROGRAMAN-WEB-DAN-MOBILE-I).
 
-Muhammad Fahriyan M  (https://github.com/fahriyan-byte/Praktikumpemweb-mobile).
+Muhammad Fahriyan M, 193020503018  (https://github.com/fahriyan-byte/Praktikumpemweb-mobile).
 
-Muhammad Fauzan (https://github.com/MZannn/PraktikumPemweb-MobileI).
+Muhammad Fauzan,  193020503024 (https://github.com/MZannn/PraktikumPemweb-MobileI).
 
-Dzikri Ahmadillah (https://github.com/Ahmadillah).
+Dzikri Ahmadillah, 193020503039 (https://github.com/Ahmadillah).
 
-Hizbullah Haidar A.A (https://github.com/Hayolox/Praktikum-Pemrograman-Web-dan-Mobile-I).
+Hizbullah Haidar A.A, 193010503011 (https://github.com/Hayolox/Praktikum-Pemrograman-Web-dan-Mobile-I).
 
-Satria Septa Arianto (https://github.com/SatriaSeptaArianto/Pemrograman-Web-Mobile-1).
+Satria Septa Arianto, 193020503026 (https://github.com/SatriaSeptaArianto/Pemrograman-Web-Mobile-1).
 
