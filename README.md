@@ -64,7 +64,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Repo
 Kevin Jeremia S.P (https://github.com/LilKeJer/PEMROGRAMAN-WEB-DAN-MOBILE-I).
 
-Muhammad Fahriyan M 
+Muhammad Fahriyan M  (https://github.com/fahriyan-byte/Praktikumpemweb-mobile).
 
 Muhammad Fauzan (https://github.com/MZannn/PraktikumPemweb-MobileI).
 
