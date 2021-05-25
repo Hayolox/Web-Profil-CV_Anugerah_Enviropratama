@@ -68,7 +68,7 @@ Muhammad Fahriyan M, 193020503018  (https://github.com/fahriyan-byte/Praktikumpe
 
 Muhammad Fauzan,  193020503024 (https://github.com/MZannn/PraktikumPemweb-MobileI).
 
-Dzikri Ahmadillah, 193020503039 (https://github.com/Ahmadillah).
+Dzikri Ahmadillah, 193020503039 (https://github.com/Ahmadillah/Praktikum-PemWeb-Mobile-I-A).
 
 Hizbullah Haidar A.A, 193010503011 (https://github.com/Hayolox/Praktikum-Pemrograman-Web-dan-Mobile-I).
 
